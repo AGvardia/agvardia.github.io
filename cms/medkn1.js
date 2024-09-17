@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Задаем номер телефона, на который нужно заменить
-  const phoneNumber = "8 (939) 841-45-37";
+  const phoneNumber = "8 (958) 557-14-37";
 
   // Ищем все элементы ссылки с классом 'data-phone'
   const phoneLinks = document.querySelectorAll("a.data-phone");
